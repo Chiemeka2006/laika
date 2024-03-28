@@ -631,6 +631,10 @@ footer {
   }
 }
 @media only screen and (max-width: 450px) {
+  h1,
+  h2 {
+      font-size: 3.7625rem;
+    }
   .welcome-message h2 {
     font-size: 3.7rem;
   }
